@@ -1,0 +1,13 @@
+body {
+    background-image: url(creisson.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+
+    border: 5px outset black;
+    background-color: lightblue;    
+    text-align: center;
+}
+
